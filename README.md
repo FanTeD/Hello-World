@@ -1,5 +1,6 @@
 ﻿# Hello-World
 设置说明
+<<<<<<< HEAD
 ## Here are some attempt:list
 * line0
 * line1
@@ -35,3 +36,5 @@ arfaergsreg | agrgsergsr | wefrgrtsg
 12 | 23 | 34 
 
 
+=======
+>>>>>>> parent of 38e4298... Update README.md
